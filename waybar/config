@@ -354,7 +354,7 @@
 {
     //"layer": "top", // Waybar at top layer
     //"position": "top", // Waybar position (top|bottom|left|right)
-	"output": "DP-12",
+	"output": "DP-13",
 	
     "height": 1, // Waybar height
     "width": 1906, // Waybar width

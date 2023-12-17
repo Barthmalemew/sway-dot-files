@@ -32,7 +32,7 @@ require("lazy").setup({
     "nvim-lua/plenary.nvim",
 
     --indent
-    "lukas-reineke/indent-blankline.nvim",
+    {"lukas-reineke/indent-blankline.nvim", main = "ibl"},
 
     --lualine
     "nvim-lualine/lualine.nvim",
